@@ -200,7 +200,7 @@ textarea {
   margin-bottom: 25px;
   border-radius: 5px;
   background: #fff;
-  border: 0;
+  /*border: 0;*/
   width: 100%;
 }
 .social-links a{
